@@ -25,7 +25,7 @@ namespace O365MSGraphConsole.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("9dabeb44-16ba-4639-8526-7515969fc89f")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string ClientId {
             get {
                 return ((string)(this["ClientId"]));
@@ -34,7 +34,7 @@ namespace O365MSGraphConsole.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("bed4ebf0-74c5-47ad-acc5-777ef24f333c")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string TenantId {
             get {
                 return ((string)(this["TenantId"]));
@@ -43,7 +43,7 @@ namespace O365MSGraphConsole.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("9kc=ePFfmggL0TWE3TYbv1g-g/Q-KO_-")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string ClientPwd {
             get {
                 return ((string)(this["ClientPwd"]));
@@ -52,7 +52,7 @@ namespace O365MSGraphConsole.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("a906aa88-2e43-4e20-8714-dfd85d943992")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string UserId {
             get {
                 return ((string)(this["UserId"]));
