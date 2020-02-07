@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="O365MSGraphConsole.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9dabeb44-16ba-4639-8526-7515969fc89f</Value>
+    </Setting>
+    <Setting Name="TenantId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bed4ebf0-74c5-47ad-acc5-777ef24f333c</Value>
+    </Setting>
+    <Setting Name="ClientPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9kc=ePFfmggL0TWE3TYbv1g-g/Q-KO_-</Value>
+    </Setting>
+    <Setting Name="UserId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">a906aa88-2e43-4e20-8714-dfd85d943992</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
